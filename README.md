@@ -5,7 +5,7 @@ This is a simple Flask app that uses a trained deep learning model to forecast t
 ## How to Run
 
 1. Clone the repo:
-   git clone https://github.com/your-username/wiki-forecast-deployment
+   git clone https://github.com/elena-vmartinez/wiki-forecast-deployment
 
 2. Install requirements:
    pip install -r requirements.txt
